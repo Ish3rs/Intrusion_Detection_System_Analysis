@@ -1,0 +1,411 @@
+AeroicAccounts.html:
+----------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aeroic Accounts - Home</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1, h2 {
+            color: #fff; /* White text color */
+        }
+        body {
+            background-color: #87CEEB; /* Sky Blue background color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="AeroicAccounts.html">Home</a></li>
+                <li><a href="about_AeroicAccounts.html">About</a></li>
+                <li><a href="products_AeroicAccounts.html">Services/Products</a></li>
+                <li><a href="contact_AeroicAccounts.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <img src="Aeroic Accounts PFP.jpg" alt="Aeroic Accounts Logo">
+            <h1>Aeroic Accounts</h1>
+            <div id="home-content">
+                <p>Welcome to Aeroic Accounts. Your #1 source for Gmails, Raffle emails & Edus.</p>
+                <p>Let us be your #1 email provider!.</p>
+            </div>
+        </section>
+        <section id="about">
+            <h2>About Aeroic Accounts</h2>
+            <p>
+                Aeroic Accounts was founded during the pandemic when our founders decided to bring together individuals with a shared interest in highly sought-after items. With a mission to provide customers with the items they desire, Aeroic Accounts was born.
+            </p>
+            <p>
+                Our business model is simple: we use our knowledge of intrusion detection to help customers purchase hyped items. We also offer solutions that require email addresses to prove individual uniqueness to the websites you engage with.
+            </p>
+        </section>
+        <section id="products">
+            <h2>Our Services/Products</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Aeroclick</th>
+                        <th>$12.99</th>
+                        <th>Qty:100</th>
+                        <th>textfile to your email address</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Raffle emails</td>
+                        <td>$1.50</td>
+                        <td>Qty:200</td>
+                        <td>textfile to your email address</td>
+                    </tr>
+                    <tr>
+                        <td>Raw aged gmails(2003-2014)</td>
+                        <td>$3.00</td>
+                        <td>Qty:100</td>
+                        <td>textfile to your email address</td>
+                    </tr>
+                   <td>fresh gmails(2015-2023)</td>
+                        <td>$0.75</td>
+                        <td>Qty:250</td>
+                        <td>textfile to your email address</td>
+                </tbody>
+            </table>
+        </section>
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <address>
+                <p>14000 Jericho Park Rd, Bowie, MD 20715</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Email: aeroicaccountsllc@gmail.com</p>
+            </address>
+            <p>Follow us on social media:</p>
+            <ul>
+                <li><a href="https://discord.com/invite/w3YehsUrWE">Discord</a></li>
+                <li><a href="https://twitter.com/AeroicAccounts">Twitter</a></li>
+            </ul>
+            <p>Business Hours: Mon-Sunday 24/7 service :)</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Aeroic Accounts</p>
+    </footer>
+</body>
+</html>
+
+about_AeroicAccounts.html:
+-------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aeroic Accounts - About</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1, h2, p {
+            color: #fff; /* White text color */
+        }
+        body {
+            background-color: #87CEEB; /* Sky Blue background color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="AeroicAccounts.html">Home</a></li>
+                <li><a href="about_AeroicAccounts.html">About</a></li>
+                <li><a href="products_AeroicAccounts.html">Services/Products</a></li>
+                <li><a href="contact_AeroicAccounts.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about" style="background-image: url('Aeroic Accounts banner.jpg'); background-size: cover; background-position: center;">
+            <h1>About Aeroic Accounts</h1>
+            <p>
+                Aeroic Accounts is a dynamic business that emerged in response to the challenges individuals face when trying to purchase highly sought-after items, both physical and virtual. The demand for items such as concert tickets, clothing, shoes, electronics, and more is on the rise, and proving one's uniqueness as an individual, rather than a robot, is essential in securing these items.
+            </p>
+            <p>
+                The founders of Aeroic Accounts recognized the need for innovative solutions to address this issue. Their journey began during the pandemic when outdoor activities were limited. Connecting with like-minded friends who shared a passion for exclusive products, including shoes, clothing, and electronics, they saw an opportunity to provide a valuable service.
+            </p>
+            <p>
+                Aeroic Accounts' philosophy is rooted in the belief that individuals should have access to the items they desire. Leveraging their expertise in intrusion detection, they offer tailored solutions to customers, providing additional email addresses and emails with high activity/recaptcha scores. These solutions enhance the odds of securing highly sought-after items.
+            </p>
+            <p>
+                The business was established with a clear mission: to empower customers and provide them with the resources needed to acquire the items they covet. The founders decided to be the bridge between individuals and their desired products, and Aeroic Accounts was the result of their determination to make it happen.
+            </p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Aeroic Accounts</p>
+    </footer>
+</body>
+</html>
+
+products_AeroicAccounts.html:
+----------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aeroic Accounts - Services/Products</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1, h2, p {
+            color: #fff; /* White text color */
+        }
+        body {
+            background-color: #87CEEB; /* Sky Blue background color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="AeroicAccounts.html">Home</a></li>
+                <li><a href="about_AeroicAccounts.html">About</a></li>
+                <li><a href="products_AeroicAccounts.html">Services/Products</a></li>
+                <li><a href="contact_AeroicAccounts.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="products">
+            <h1>Our Services/Products</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Service/Product</th>
+                        <th>Price</th>
+                        <th>Quantity Available</th>
+                        <th>Additional Information</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Aero Click Gmails</td>
+                        <td>$12.99</td>
+                        <td>Qty: 100</td>
+                        <td>
+                            <p>The BEST Gmail for Yeezy Supply, Shopify, and AYCD AI</p>
+                            <p>Guaranteed CHECKBOX V2 (Highest Gmail Score)</p>
+                            <p>Aged From 2008-2011</p>
+                            <p>Farmed on Private Subnet (Proxy Expiration - 8/24)</p>
+                            <p>15 Day Warranty</p>
+                            <p>Instant Delivery in Email:::Password:::Security::::Recovery:::Proxy Format</p>
+                            <p>Choose "Credit/Debit Card" Option To Pay</p>
+                            <p>Within 24 hours of receiving the gmails please add 2fa, if you do not do so we cannot help with the warranty (see discord for details)</p>
+                            <p>(Do not test any gmails until 24 hours after purchase)</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Premium Raffle Gmails</td>
+                        <td>$1.49 / Account</td>
+                        <td>25, 50, 75, 100</td>
+                        <td>
+                            <p>Perfect for Raffles</p>
+                            <p>Only sold in quantities of 25, 50, 75, & 100</p>
+                            <p>Created by Unique IPs</p>
+                            <p>Unwarmed</p>
+                            <p>SMS Verified</p>
+                            <p>Includes Recovery Email</p>
+                            <p>7 Day Warranty</p>
+                            <p>Same Day Delivery in Email::Password::Recovery Format</p>
+                            <p>Choose "Credit/Debit Card" Option To Pay</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Fresh Gmails (2016-2023)</td>
+                        <td>$0.75 / Account</td>
+                        <td>25, 50, 75, 100</td>
+                        <td>
+                            <p>Perfect for miscellaneous use</p>
+                            <p>Only sold in quantities of 25, 50, 75, & 100</p>
+                            <p>Unwarmed</p>
+                            <p>Includes Recovery Email</p>
+                            <p>7 Day Warranty</p>
+                            <p>Same Day Delivery in Email::Password::Recovery Format</p>
+                            <p>Choose "Credit/Debit Card" Option To Pay</p>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Raw Aged Gmails (2008-2011)</td>
+                        <td>$2.99 / Account</td>
+                        <td>25, 50, 75, 100</td>
+                        <td>
+                            <p>Perfect for miscellaneous use</p>
+                            <p>Only sold in quantities of 25, 50, 75, & 100</p>
+                            <p>Unwarmed</p>
+                            <p>Includes Recovery Email</p>
+                            <p>7 Day Warranty</p>
+                            <p>Same Day Delivery in Email::Password::Recovery Format</p>
+                            <p>Choose "Credit/Debit Card" Option To Pay</p>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Shipping and return information: We aim to provide prompt delivery of our services/products through email delivery. Please refer to our <a href="return_policy.html">return policy</a> for information on returns and refunds.</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Aeroic Accounts</p>
+    </footer>
+</body>
+</html>
+
+return_policy.html:
+------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aeroic Accounts - Return Policy</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1, h2, p {
+            color: #fff; /* White text color */
+        }
+        body {
+            background-color: #87CEEB; /* Sky Blue background color */
+        }
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        table, th, td {
+            border: 1px solid black; /* Add solid black borders to the table, th, and td elements */
+        }
+        table, th, td {
+            border: 1px solid black; /* Add solid black borders to the table, th, and td elements */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="AeroicAccounts.html">Home</a></li>
+                <li><a href="about_AeroicAccounts.html">About</a></li>
+                <li><a href="return_policy_AeroicAccounts.html">Return Policy</a></li>
+                <li><a href="contact_AeroicAccounts.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="return-policy">
+            <h1>Return Policy</h1>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Service/Product</th>
+                        <th>Price</th>
+                        <th>Quantity Available</th>
+                        <th>Additional Information</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Aero Click Gmails</td>
+                        <td>$12.99</td>
+                        <td>Qty: 100</td>
+                        <td>
+                            <a href="https://discord.com/invite/w3YehsUrWE">Discord</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Premium Raffle Gmails</td>
+                        <td>$1.49 / Account</td>
+                        <td>25, 50, 75, 100</td>
+                        <td>
+                            <a href="https://discord.com/invite/w3YehsUrWE">Discord</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Fresh Gmails (2016-2023)</td>
+                        <td>$0.75 / Account</td>
+                        <td>25, 50, 75, 100</td>
+                        <td>
+                            <a href="https://discord.com/invite/w3YehsUrWE">Discord</a>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Raw Aged Gmails (2008-2011)</td>
+                        <td>$2.99 / Account</td>
+                        <td>25, 50, 75, 100</td>
+                        <td>
+                            <a href="https://discord.com/invite/w3YehsUrWE">Discord</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <p>Shipping and return information: We aim to provide prompt delivery of our services/products through email delivery. Please use the link in the additional information category to join our discord and open a ticket for any clarification or other inquiries!
+        </section>
+        <img src="return policy image.png" alt="Return Policy Image" style="display: block; margin: 0 auto;">
+    </main>
+    <footer>
+        <p>&copy; 2023 Aeroic Accounts</p>
+    </footer>
+</body>
+</html>
+
+contact_AeroicAccounts.html:
+---------------------------
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - Aeroic Accounts</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        h1, h2, p {
+            color: #fff; /* White text color */
+        }
+        body {
+            background-color: #87CEEB; /* Sky Blue background color */
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="AeroicAccounts.html">Home</a></li>
+                <li><a href="about_AeroicAccounts.html">About</a></li>
+                <li><a href="products_AeroicAccounts.html">Services/Products</a></li>
+                <li><a href="contact_AeroicAccounts.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <h1>Contact Us</h1>
+            <address>
+                <p>14000 Jericho Park Rd, Bowie, MD 20715</p>
+                <p>Phone: (123) 456-7890</p>
+                <p>Email: <a href="mailto:aeroicaccountsllc@gmail.com">aeroicaccountsllc@gmail.com</a></p>
+            </address>
+            <p>Follow us on social media:</p>
+            <ul>
+                <li><a href="https://discord.com/invite/w3YehsUrWE">Discord</a></li>
+                <li><a href="https://twitter.com/AeroicAccounts">Twitter</a></li>
+            </ul>
+            <p>Business Hours: Mon-Sunday 24/7 service :)</p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2023 Aeroic Accounts</p>
+    </footer>
+</body>
+</html>
+
